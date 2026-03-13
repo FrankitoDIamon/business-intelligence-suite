@@ -1,0 +1,55 @@
+# ======================
+# Python
+# ======================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# ======================
+# PyInstaller
+# ======================
+build/
+dist/
+*.spec
+
+# ======================
+# Archivos temporales
+# ======================
+*.log
+*.tmp
+*.bak
+
+# ======================
+# Sistema operativo
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# IDE / editores
+# ======================
+.vscode/
+.idea/
+
+# ======================
+# Base de datos local
+# ======================
+*.db
+*.sqlite
+*.sqlite3
+
+# ======================
+# Ejecutables
+# ======================
+*.exe
+
+# ======================
+# Archivos de configuración local
+# ======================
+config_local.json
+.env
